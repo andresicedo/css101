@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(255,249,248);
+
+}
+
+/* Nav Bar */
+.nav {
+    background-color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(62,66,229);
+    border-top: none;
+}
+.navbar-brand {
+    color: rgb(62,66,229);
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-link {
+    color: rgb(142,144,189);
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Main content */
+.phoneImg {
+    margin-top: 12%;
+}
+.girls_content {
+    background-color: rgb(255,218,213);
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    border-top: none;
+}
+.girls {
+    color: rgb(39,44,131);
+    font-size: 90px;
+    line-height: 1em;
+    font-weight: 1200;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 10%;
+}
+.fun {
+    color: rgb(105,185,165);
+}
+
+.text {
+    color: rgb(39,44,131);
+    font-weight: bold;
+    font-size: 17px;
+    margin-top: -5%;
+}
+
+.form-control {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(62,66,229);
+}
+
